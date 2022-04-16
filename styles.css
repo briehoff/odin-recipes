@@ -1,0 +1,22 @@
+body {
+    background-color: azure;
+}
+
+.header {
+    padding: 25px;
+    margin: 25px;
+    border: 2px solid rgb(179, 109, 219);
+    text-align: center;
+    font-size: 50px;
+    background-color: rgba(184, 146, 219, 0.664);
+}
+
+.row {
+    display: flex;
+    margin: 75px;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
