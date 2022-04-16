@@ -1,0 +1,33 @@
+body {
+    background-color: azure;
+}
+
+.header {
+    padding: 25px;
+    margin: 25px;
+    border: 2px solid rgb(179, 109, 219);
+    text-align: center;
+    font-size: 50px;
+    background-color: rgba(184, 146, 219, 0.664);
+}
+
+#recipe-name {
+    padding: 25px;
+    margin: 25px;
+    font-size: 20px;
+}
+
+.description {
+    padding: 10px;
+    margin: 10px;
+}
+
+.ingredients {
+    padding: 10px;
+    margin: 10px;
+}
+
+.steps {
+    padding: 10px;
+    margin: 10px;
+}
